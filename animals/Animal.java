@@ -1,7 +1,25 @@
+package animals;
+
 import java.util.*;
 
+// ABSTRACTION : This class represents animals generally, but can be overridden by 
+// more concrete subclasses.
 public class Animal {
+	/*
+	Animal class
+	Attributes : name (String)
+				 type (String)
+	methods : wake : animal prints wake message
+			  makeNoise : animal prints noise message
+			  eat : animal prints eating message
+			  roam : animal prints roaming message
+			  sleep : animal prints sleeping message
+			  getName : returns the name of the animal
+			  getFullTitle : returns full animal title
+	*/
 
+	// ENCAPSULATION : This is an example of encapsulation because declaring these
+	// variables private hides them from the inhereting subclasses.
 	private String name;
 	private String type;
 		

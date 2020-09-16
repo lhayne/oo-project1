@@ -1,0 +1,702 @@
+Enter the number of days the Zoo should operate: 
+7
+Zookeeper Mark wakes Carl the Cat
+Carl the Cat wakes up.
+Zookeeper Mark wakes Tina the Tiger
+Tina the Tiger wakes up.
+Zookeeper Mark wakes Lily the Lion
+Lily the Lion wakes up.
+Zookeeper Mark wakes Doug the Dog
+Doug the Dog wakes up.
+Zookeeper Mark wakes Willy the Wolf
+Willy the Wolf wakes up.
+Zookeeper Mark wakes Ryan the Rhino
+Ryan the Rhino wakes up.
+Zookeeper Mark wakes Eli the Elephant
+Eli the Elephant wakes up.
+Zookeeper Mark wakes Hank the Hippo
+Hank the Hippo wakes up.
+Zookeeper Mark wakes Kevin the Kangaroo
+Kevin the Kangaroo wakes up.
+Zookeeper Mark wakes Wanda the Wombat
+Wanda the Wombat wakes up.
+Zookeeper Mark calls out for Carl the Cat
+Carl the Cat makes noise.
+Zookeeper Mark calls out for Tina the Tiger
+Tina the Tiger makes noise.
+Zookeeper Mark calls out for Lily the Lion
+Lily the Lion makes noise.
+Zookeeper Mark calls out for Doug the Dog
+Doug the Dog makes noise.
+Zookeeper Mark calls out for Willy the Wolf
+Willy the Wolf makes noise.
+Zookeeper Mark calls out for Ryan the Rhino
+Ryan the Rhino makes noise.
+Zookeeper Mark calls out for Eli the Elephant
+Eli the Elephant makes noise.
+Zookeeper Mark calls out for Hank the Hippo
+Hank the Hippo makes noise.
+Zookeeper Mark calls out for Kevin the Kangaroo
+Kevin the Kangaroo makes noise.
+Zookeeper Mark calls out for Wanda the Wombat
+Wanda the Wombat makes noise.
+Zookeeper Mark feeds Carl the Cat
+Carl the Cat coughs up a hairball.
+Zookeeper Mark feeds Tina the Tiger
+Tina the Tiger eats.
+Zookeeper Mark feeds Lily the Lion
+Lily the Lion eats.
+Zookeeper Mark feeds Doug the Dog
+Doug the Dog eats.
+Zookeeper Mark feeds Willy the Wolf
+Willy the Wolf eats.
+Zookeeper Mark feeds Ryan the Rhino
+Ryan the Rhino eats.
+Zookeeper Mark feeds Eli the Elephant
+Eli the Elephant eats.
+Zookeeper Mark feeds Hank the Hippo
+Hank the Hippo eats.
+Zookeeper Mark feeds Kevin the Kangaroo
+Kevin the Kangaroo eats.
+Zookeeper Mark feeds Wanda the Wombat
+Wanda the Wombat eats.
+Zookeeper Mark exercises Carl the Cat
+Carl the Cat roams.
+Zookeeper Mark exercises Tina the Tiger
+Tina the Tiger roams.
+Zookeeper Mark exercises Lily the Lion
+Lily the Lion roams.
+Zookeeper Mark exercises Doug the Dog
+Doug the Dog roams.
+Zookeeper Mark exercises Willy the Wolf
+Willy the Wolf roams.
+Zookeeper Mark exercises Ryan the Rhino
+Ryan the Rhino charges.
+Zookeeper Mark exercises Eli the Elephant
+Eli the Elephant roams.
+Zookeeper Mark exercises Hank the Hippo
+Hank the Hippo roams.
+Zookeeper Mark exercises Kevin the Kangaroo
+Kevin the Kangaroo kicks a visitor and bounds away.
+Zookeeper Mark exercises Wanda the Wombat
+Wanda the Wombat roams.
+Zookeeper Mark sleeps Carl the Cat
+Carl the Cat makes noise.
+Zookeeper Mark sleeps Tina the Tiger
+Tina the Tiger makes noise.
+Zookeeper Mark sleeps Lily the Lion
+Lily the Lion sleeps.
+Zookeeper Mark sleeps Doug the Dog
+Doug the Dog sleeps.
+Zookeeper Mark sleeps Willy the Wolf
+Willy the Wolf sleeps.
+Zookeeper Mark sleeps Ryan the Rhino
+Ryan the Rhino sleeps.
+Zookeeper Mark sleeps Eli the Elephant
+Eli the Elephant sleeps.
+Zookeeper Mark sleeps Hank the Hippo
+Hank the Hippo sleeps.
+Zookeeper Mark sleeps Kevin the Kangaroo
+Kevin the Kangaroo sleeps.
+Zookeeper Mark sleeps Wanda the Wombat
+Wanda the Wombat sleeps.
+Zookeeper Mark wakes Carl the Cat
+Carl the Cat wakes up.
+Zookeeper Mark wakes Tina the Tiger
+Tina the Tiger wakes up.
+Zookeeper Mark wakes Lily the Lion
+Lily the Lion wakes up.
+Zookeeper Mark wakes Doug the Dog
+Doug the Dog wakes up.
+Zookeeper Mark wakes Willy the Wolf
+Willy the Wolf wakes up.
+Zookeeper Mark wakes Ryan the Rhino
+Ryan the Rhino wakes up.
+Zookeeper Mark wakes Eli the Elephant
+Eli the Elephant wakes up.
+Zookeeper Mark wakes Hank the Hippo
+Hank the Hippo wakes up.
+Zookeeper Mark wakes Kevin the Kangaroo
+Kevin the Kangaroo wakes up.
+Zookeeper Mark wakes Wanda the Wombat
+Wanda the Wombat wakes up.
+Zookeeper Mark calls out for Carl the Cat
+Carl the Cat makes noise.
+Zookeeper Mark calls out for Tina the Tiger
+Tina the Tiger makes noise.
+Zookeeper Mark calls out for Lily the Lion
+Lily the Lion makes noise.
+Zookeeper Mark calls out for Doug the Dog
+Doug the Dog makes noise.
+Zookeeper Mark calls out for Willy the Wolf
+Willy the Wolf makes noise.
+Zookeeper Mark calls out for Ryan the Rhino
+Ryan the Rhino makes noise.
+Zookeeper Mark calls out for Eli the Elephant
+Eli the Elephant makes noise.
+Zookeeper Mark calls out for Hank the Hippo
+Hank the Hippo makes noise.
+Zookeeper Mark calls out for Kevin the Kangaroo
+Kevin the Kangaroo makes noise.
+Zookeeper Mark calls out for Wanda the Wombat
+Wanda the Wombat makes noise.
+Zookeeper Mark feeds Carl the Cat
+Carl the Cat coughs up a hairball.
+Zookeeper Mark feeds Tina the Tiger
+Tina the Tiger eats.
+Zookeeper Mark feeds Lily the Lion
+Lily the Lion eats.
+Zookeeper Mark feeds Doug the Dog
+Doug the Dog eats.
+Zookeeper Mark feeds Willy the Wolf
+Willy the Wolf eats.
+Zookeeper Mark feeds Ryan the Rhino
+Ryan the Rhino eats.
+Zookeeper Mark feeds Eli the Elephant
+Eli the Elephant eats.
+Zookeeper Mark feeds Hank the Hippo
+Hank the Hippo eats.
+Zookeeper Mark feeds Kevin the Kangaroo
+Kevin the Kangaroo eats.
+Zookeeper Mark feeds Wanda the Wombat
+Wanda the Wombat eats.
+Zookeeper Mark exercises Carl the Cat
+Carl the Cat roams.
+Zookeeper Mark exercises Tina the Tiger
+Tina the Tiger roams.
+Zookeeper Mark exercises Lily the Lion
+Lily the Lion roams.
+Zookeeper Mark exercises Doug the Dog
+Doug the Dog roams.
+Zookeeper Mark exercises Willy the Wolf
+Willy the Wolf roams.
+Zookeeper Mark exercises Ryan the Rhino
+Ryan the Rhino charges.
+Zookeeper Mark exercises Eli the Elephant
+Eli the Elephant roams.
+Zookeeper Mark exercises Hank the Hippo
+Hank the Hippo charges.
+Zookeeper Mark exercises Kevin the Kangaroo
+Kevin the Kangaroo kicks a visitor and bounds away.
+Zookeeper Mark exercises Wanda the Wombat
+Wanda the Wombat roams.
+Zookeeper Mark sleeps Carl the Cat
+Carl the Cat roams.
+Zookeeper Mark sleeps Tina the Tiger
+Tina the Tiger makes noise.
+Zookeeper Mark sleeps Lily the Lion
+Lily the Lion roams.
+Zookeeper Mark sleeps Doug the Dog
+Doug the Dog sleeps.
+Zookeeper Mark sleeps Willy the Wolf
+Willy the Wolf sleeps.
+Zookeeper Mark sleeps Ryan the Rhino
+Ryan the Rhino sleeps.
+Zookeeper Mark sleeps Eli the Elephant
+Eli the Elephant sleeps.
+Zookeeper Mark sleeps Hank the Hippo
+Hank the Hippo sleeps.
+Zookeeper Mark sleeps Kevin the Kangaroo
+Kevin the Kangaroo sleeps.
+Zookeeper Mark sleeps Wanda the Wombat
+Wanda the Wombat sleeps.
+Zookeeper Mark wakes Carl the Cat
+Carl the Cat wakes up.
+Zookeeper Mark wakes Tina the Tiger
+Tina the Tiger wakes up.
+Zookeeper Mark wakes Lily the Lion
+Lily the Lion wakes up.
+Zookeeper Mark wakes Doug the Dog
+Doug the Dog wakes up.
+Zookeeper Mark wakes Willy the Wolf
+Willy the Wolf wakes up.
+Zookeeper Mark wakes Ryan the Rhino
+Ryan the Rhino wakes up.
+Zookeeper Mark wakes Eli the Elephant
+Eli the Elephant wakes up.
+Zookeeper Mark wakes Hank the Hippo
+Hank the Hippo wakes up.
+Zookeeper Mark wakes Kevin the Kangaroo
+Kevin the Kangaroo wakes up.
+Zookeeper Mark wakes Wanda the Wombat
+Wanda the Wombat wakes up.
+Zookeeper Mark calls out for Carl the Cat
+Carl the Cat makes noise.
+Zookeeper Mark calls out for Tina the Tiger
+Tina the Tiger makes noise.
+Zookeeper Mark calls out for Lily the Lion
+Lily the Lion makes noise.
+Zookeeper Mark calls out for Doug the Dog
+Doug the Dog makes noise.
+Zookeeper Mark calls out for Willy the Wolf
+Willy the Wolf makes noise.
+Zookeeper Mark calls out for Ryan the Rhino
+Ryan the Rhino makes noise.
+Zookeeper Mark calls out for Eli the Elephant
+Eli the Elephant makes noise.
+Zookeeper Mark calls out for Hank the Hippo
+Hank the Hippo makes noise.
+Zookeeper Mark calls out for Kevin the Kangaroo
+Kevin the Kangaroo makes noise.
+Zookeeper Mark calls out for Wanda the Wombat
+Wanda the Wombat makes noise.
+Zookeeper Mark feeds Carl the Cat
+Carl the Cat coughs up a hairball.
+Zookeeper Mark feeds Tina the Tiger
+Tina the Tiger eats.
+Zookeeper Mark feeds Lily the Lion
+Lily the Lion eats.
+Zookeeper Mark feeds Doug the Dog
+Doug the Dog eats.
+Zookeeper Mark feeds Willy the Wolf
+Willy the Wolf eats.
+Zookeeper Mark feeds Ryan the Rhino
+Ryan the Rhino eats.
+Zookeeper Mark feeds Eli the Elephant
+Eli the Elephant eats.
+Zookeeper Mark feeds Hank the Hippo
+Hank the Hippo eats.
+Zookeeper Mark feeds Kevin the Kangaroo
+Kevin the Kangaroo eats.
+Zookeeper Mark feeds Wanda the Wombat
+Wanda the Wombat eats.
+Zookeeper Mark exercises Carl the Cat
+Carl the Cat roams.
+Zookeeper Mark exercises Tina the Tiger
+Tina the Tiger roams.
+Zookeeper Mark exercises Lily the Lion
+Lily the Lion roams.
+Zookeeper Mark exercises Doug the Dog
+Doug the Dog roams.
+Zookeeper Mark exercises Willy the Wolf
+Willy the Wolf roams.
+Zookeeper Mark exercises Ryan the Rhino
+Ryan the Rhino roams.
+Zookeeper Mark exercises Eli the Elephant
+Eli the Elephant roams.
+Zookeeper Mark exercises Hank the Hippo
+Hank the Hippo roams.
+Zookeeper Mark exercises Kevin the Kangaroo
+Kevin the Kangaroo kicks a visitor and bounds away.
+Zookeeper Mark exercises Wanda the Wombat
+Wanda the Wombat roams.
+Zookeeper Mark sleeps Carl the Cat
+Carl the Cat sleeps.
+Zookeeper Mark sleeps Tina the Tiger
+Tina the Tiger roams.
+Zookeeper Mark sleeps Lily the Lion
+Lily the Lion roams.
+Zookeeper Mark sleeps Doug the Dog
+Doug the Dog sleeps.
+Zookeeper Mark sleeps Willy the Wolf
+Willy the Wolf sleeps.
+Zookeeper Mark sleeps Ryan the Rhino
+Ryan the Rhino sleeps.
+Zookeeper Mark sleeps Eli the Elephant
+Eli the Elephant sleeps.
+Zookeeper Mark sleeps Hank the Hippo
+Hank the Hippo sleeps.
+Zookeeper Mark sleeps Kevin the Kangaroo
+Kevin the Kangaroo sleeps.
+Zookeeper Mark sleeps Wanda the Wombat
+Wanda the Wombat sleeps.
+Zookeeper Mark wakes Carl the Cat
+Carl the Cat wakes up.
+Zookeeper Mark wakes Tina the Tiger
+Tina the Tiger wakes up.
+Zookeeper Mark wakes Lily the Lion
+Lily the Lion wakes up.
+Zookeeper Mark wakes Doug the Dog
+Doug the Dog wakes up.
+Zookeeper Mark wakes Willy the Wolf
+Willy the Wolf wakes up.
+Zookeeper Mark wakes Ryan the Rhino
+Ryan the Rhino wakes up.
+Zookeeper Mark wakes Eli the Elephant
+Eli the Elephant wakes up.
+Zookeeper Mark wakes Hank the Hippo
+Hank the Hippo wakes up.
+Zookeeper Mark wakes Kevin the Kangaroo
+Kevin the Kangaroo wakes up.
+Zookeeper Mark wakes Wanda the Wombat
+Wanda the Wombat wakes up.
+Zookeeper Mark calls out for Carl the Cat
+Carl the Cat makes noise.
+Zookeeper Mark calls out for Tina the Tiger
+Tina the Tiger makes noise.
+Zookeeper Mark calls out for Lily the Lion
+Lily the Lion makes noise.
+Zookeeper Mark calls out for Doug the Dog
+Doug the Dog makes noise.
+Zookeeper Mark calls out for Willy the Wolf
+Willy the Wolf makes noise.
+Zookeeper Mark calls out for Ryan the Rhino
+Ryan the Rhino makes noise.
+Zookeeper Mark calls out for Eli the Elephant
+Eli the Elephant makes noise.
+Zookeeper Mark calls out for Hank the Hippo
+Hank the Hippo makes noise.
+Zookeeper Mark calls out for Kevin the Kangaroo
+Kevin the Kangaroo makes noise.
+Zookeeper Mark calls out for Wanda the Wombat
+Wanda the Wombat makes noise.
+Zookeeper Mark feeds Carl the Cat
+Carl the Cat coughs up a hairball.
+Zookeeper Mark feeds Tina the Tiger
+Tina the Tiger eats.
+Zookeeper Mark feeds Lily the Lion
+Lily the Lion eats.
+Zookeeper Mark feeds Doug the Dog
+Doug the Dog eats.
+Zookeeper Mark feeds Willy the Wolf
+Willy the Wolf eats.
+Zookeeper Mark feeds Ryan the Rhino
+Ryan the Rhino eats.
+Zookeeper Mark feeds Eli the Elephant
+Eli the Elephant eats.
+Zookeeper Mark feeds Hank the Hippo
+Hank the Hippo eats.
+Zookeeper Mark feeds Kevin the Kangaroo
+Kevin the Kangaroo eats.
+Zookeeper Mark feeds Wanda the Wombat
+Wanda the Wombat eats.
+Zookeeper Mark exercises Carl the Cat
+Carl the Cat roams.
+Zookeeper Mark exercises Tina the Tiger
+Tina the Tiger roams.
+Zookeeper Mark exercises Lily the Lion
+Lily the Lion roams.
+Zookeeper Mark exercises Doug the Dog
+Doug the Dog roams.
+Zookeeper Mark exercises Willy the Wolf
+Willy the Wolf roams.
+Zookeeper Mark exercises Ryan the Rhino
+Ryan the Rhino roams.
+Zookeeper Mark exercises Eli the Elephant
+Eli the Elephant roams.
+Zookeeper Mark exercises Hank the Hippo
+Hank the Hippo roams.
+Zookeeper Mark exercises Kevin the Kangaroo
+Kevin the Kangaroo kicks a visitor and bounds away.
+Zookeeper Mark exercises Wanda the Wombat
+Wanda the Wombat roams.
+Zookeeper Mark sleeps Carl the Cat
+Carl the Cat sleeps.
+Zookeeper Mark sleeps Tina the Tiger
+Tina the Tiger makes noise.
+Zookeeper Mark sleeps Lily the Lion
+Lily the Lion roams.
+Zookeeper Mark sleeps Doug the Dog
+Doug the Dog sleeps.
+Zookeeper Mark sleeps Willy the Wolf
+Willy the Wolf sleeps.
+Zookeeper Mark sleeps Ryan the Rhino
+Ryan the Rhino sleeps.
+Zookeeper Mark sleeps Eli the Elephant
+Eli the Elephant sleeps.
+Zookeeper Mark sleeps Hank the Hippo
+Hank the Hippo sleeps.
+Zookeeper Mark sleeps Kevin the Kangaroo
+Kevin the Kangaroo sleeps.
+Zookeeper Mark sleeps Wanda the Wombat
+Wanda the Wombat sleeps.
+Zookeeper Mark wakes Carl the Cat
+Carl the Cat wakes up.
+Zookeeper Mark wakes Tina the Tiger
+Tina the Tiger wakes up.
+Zookeeper Mark wakes Lily the Lion
+Lily the Lion wakes up.
+Zookeeper Mark wakes Doug the Dog
+Doug the Dog wakes up.
+Zookeeper Mark wakes Willy the Wolf
+Willy the Wolf wakes up.
+Zookeeper Mark wakes Ryan the Rhino
+Ryan the Rhino wakes up.
+Zookeeper Mark wakes Eli the Elephant
+Eli the Elephant wakes up.
+Zookeeper Mark wakes Hank the Hippo
+Hank the Hippo wakes up.
+Zookeeper Mark wakes Kevin the Kangaroo
+Kevin the Kangaroo wakes up.
+Zookeeper Mark wakes Wanda the Wombat
+Wanda the Wombat wakes up.
+Zookeeper Mark calls out for Carl the Cat
+Carl the Cat makes noise.
+Zookeeper Mark calls out for Tina the Tiger
+Tina the Tiger makes noise.
+Zookeeper Mark calls out for Lily the Lion
+Lily the Lion makes noise.
+Zookeeper Mark calls out for Doug the Dog
+Doug the Dog makes noise.
+Zookeeper Mark calls out for Willy the Wolf
+Willy the Wolf makes noise.
+Zookeeper Mark calls out for Ryan the Rhino
+Ryan the Rhino makes noise.
+Zookeeper Mark calls out for Eli the Elephant
+Eli the Elephant makes noise.
+Zookeeper Mark calls out for Hank the Hippo
+Hank the Hippo makes noise.
+Zookeeper Mark calls out for Kevin the Kangaroo
+Kevin the Kangaroo makes noise.
+Zookeeper Mark calls out for Wanda the Wombat
+Wanda the Wombat makes noise.
+Zookeeper Mark feeds Carl the Cat
+Carl the Cat coughs up a hairball.
+Zookeeper Mark feeds Tina the Tiger
+Tina the Tiger eats.
+Zookeeper Mark feeds Lily the Lion
+Lily the Lion eats.
+Zookeeper Mark feeds Doug the Dog
+Doug the Dog eats.
+Zookeeper Mark feeds Willy the Wolf
+Willy the Wolf eats.
+Zookeeper Mark feeds Ryan the Rhino
+Ryan the Rhino eats.
+Zookeeper Mark feeds Eli the Elephant
+Eli the Elephant eats.
+Zookeeper Mark feeds Hank the Hippo
+Hank the Hippo eats.
+Zookeeper Mark feeds Kevin the Kangaroo
+Kevin the Kangaroo eats.
+Zookeeper Mark feeds Wanda the Wombat
+Wanda the Wombat eats.
+Zookeeper Mark exercises Carl the Cat
+Carl the Cat roams.
+Zookeeper Mark exercises Tina the Tiger
+Tina the Tiger roams.
+Zookeeper Mark exercises Lily the Lion
+Lily the Lion roams.
+Zookeeper Mark exercises Doug the Dog
+Doug the Dog roams.
+Zookeeper Mark exercises Willy the Wolf
+Willy the Wolf roams.
+Zookeeper Mark exercises Ryan the Rhino
+Ryan the Rhino charges.
+Zookeeper Mark exercises Eli the Elephant
+Eli the Elephant charges.
+Zookeeper Mark exercises Hank the Hippo
+Hank the Hippo roams.
+Zookeeper Mark exercises Kevin the Kangaroo
+Kevin the Kangaroo kicks a visitor and bounds away.
+Zookeeper Mark exercises Wanda the Wombat
+Wanda the Wombat roams.
+Zookeeper Mark sleeps Carl the Cat
+Carl the Cat makes noise.
+Zookeeper Mark sleeps Tina the Tiger
+Tina the Tiger makes noise.
+Zookeeper Mark sleeps Lily the Lion
+Lily the Lion sleeps.
+Zookeeper Mark sleeps Doug the Dog
+Doug the Dog sleeps.
+Zookeeper Mark sleeps Willy the Wolf
+Willy the Wolf sleeps.
+Zookeeper Mark sleeps Ryan the Rhino
+Ryan the Rhino sleeps.
+Zookeeper Mark sleeps Eli the Elephant
+Eli the Elephant sleeps.
+Zookeeper Mark sleeps Hank the Hippo
+Hank the Hippo sleeps.
+Zookeeper Mark sleeps Kevin the Kangaroo
+Kevin the Kangaroo sleeps.
+Zookeeper Mark sleeps Wanda the Wombat
+Wanda the Wombat sleeps.
+Zookeeper Mark wakes Carl the Cat
+Carl the Cat wakes up.
+Zookeeper Mark wakes Tina the Tiger
+Tina the Tiger wakes up.
+Zookeeper Mark wakes Lily the Lion
+Lily the Lion wakes up.
+Zookeeper Mark wakes Doug the Dog
+Doug the Dog wakes up.
+Zookeeper Mark wakes Willy the Wolf
+Willy the Wolf wakes up.
+Zookeeper Mark wakes Ryan the Rhino
+Ryan the Rhino wakes up.
+Zookeeper Mark wakes Eli the Elephant
+Eli the Elephant wakes up.
+Zookeeper Mark wakes Hank the Hippo
+Hank the Hippo wakes up.
+Zookeeper Mark wakes Kevin the Kangaroo
+Kevin the Kangaroo wakes up.
+Zookeeper Mark wakes Wanda the Wombat
+Wanda the Wombat wakes up.
+Zookeeper Mark calls out for Carl the Cat
+Carl the Cat makes noise.
+Zookeeper Mark calls out for Tina the Tiger
+Tina the Tiger makes noise.
+Zookeeper Mark calls out for Lily the Lion
+Lily the Lion makes noise.
+Zookeeper Mark calls out for Doug the Dog
+Doug the Dog makes noise.
+Zookeeper Mark calls out for Willy the Wolf
+Willy the Wolf makes noise.
+Zookeeper Mark calls out for Ryan the Rhino
+Ryan the Rhino makes noise.
+Zookeeper Mark calls out for Eli the Elephant
+Eli the Elephant makes noise.
+Zookeeper Mark calls out for Hank the Hippo
+Hank the Hippo makes noise.
+Zookeeper Mark calls out for Kevin the Kangaroo
+Kevin the Kangaroo makes noise.
+Zookeeper Mark calls out for Wanda the Wombat
+Wanda the Wombat makes noise.
+Zookeeper Mark feeds Carl the Cat
+Carl the Cat coughs up a hairball.
+Zookeeper Mark feeds Tina the Tiger
+Tina the Tiger eats.
+Zookeeper Mark feeds Lily the Lion
+Lily the Lion eats.
+Zookeeper Mark feeds Doug the Dog
+Doug the Dog eats.
+Zookeeper Mark feeds Willy the Wolf
+Willy the Wolf eats.
+Zookeeper Mark feeds Ryan the Rhino
+Ryan the Rhino eats.
+Zookeeper Mark feeds Eli the Elephant
+Eli the Elephant eats.
+Zookeeper Mark feeds Hank the Hippo
+Hank the Hippo eats.
+Zookeeper Mark feeds Kevin the Kangaroo
+Kevin the Kangaroo eats.
+Zookeeper Mark feeds Wanda the Wombat
+Wanda the Wombat eats.
+Zookeeper Mark exercises Carl the Cat
+Carl the Cat roams.
+Zookeeper Mark exercises Tina the Tiger
+Tina the Tiger roams.
+Zookeeper Mark exercises Lily the Lion
+Lily the Lion roams.
+Zookeeper Mark exercises Doug the Dog
+Doug the Dog digs.
+Zookeeper Mark exercises Willy the Wolf
+Willy the Wolf roams.
+Zookeeper Mark exercises Ryan the Rhino
+Ryan the Rhino roams.
+Zookeeper Mark exercises Eli the Elephant
+Eli the Elephant roams.
+Zookeeper Mark exercises Hank the Hippo
+Hank the Hippo charges.
+Zookeeper Mark exercises Kevin the Kangaroo
+Kevin the Kangaroo kicks a visitor and bounds away.
+Zookeeper Mark exercises Wanda the Wombat
+Wanda the Wombat roams.
+Zookeeper Mark sleeps Carl the Cat
+Carl the Cat roams.
+Zookeeper Mark sleeps Tina the Tiger
+Tina the Tiger roams.
+Zookeeper Mark sleeps Lily the Lion
+Lily the Lion makes noise.
+Zookeeper Mark sleeps Doug the Dog
+Doug the Dog sleeps.
+Zookeeper Mark sleeps Willy the Wolf
+Willy the Wolf sleeps.
+Zookeeper Mark sleeps Ryan the Rhino
+Ryan the Rhino sleeps.
+Zookeeper Mark sleeps Eli the Elephant
+Eli the Elephant sleeps.
+Zookeeper Mark sleeps Hank the Hippo
+Hank the Hippo sleeps.
+Zookeeper Mark sleeps Kevin the Kangaroo
+Kevin the Kangaroo sleeps.
+Zookeeper Mark sleeps Wanda the Wombat
+Wanda the Wombat sleeps.
+Zookeeper Mark wakes Carl the Cat
+Carl the Cat wakes up.
+Zookeeper Mark wakes Tina the Tiger
+Tina the Tiger wakes up.
+Zookeeper Mark wakes Lily the Lion
+Lily the Lion wakes up.
+Zookeeper Mark wakes Doug the Dog
+Doug the Dog wakes up.
+Zookeeper Mark wakes Willy the Wolf
+Willy the Wolf wakes up.
+Zookeeper Mark wakes Ryan the Rhino
+Ryan the Rhino wakes up.
+Zookeeper Mark wakes Eli the Elephant
+Eli the Elephant wakes up.
+Zookeeper Mark wakes Hank the Hippo
+Hank the Hippo wakes up.
+Zookeeper Mark wakes Kevin the Kangaroo
+Kevin the Kangaroo wakes up.
+Zookeeper Mark wakes Wanda the Wombat
+Wanda the Wombat wakes up.
+Zookeeper Mark calls out for Carl the Cat
+Carl the Cat makes noise.
+Zookeeper Mark calls out for Tina the Tiger
+Tina the Tiger makes noise.
+Zookeeper Mark calls out for Lily the Lion
+Lily the Lion makes noise.
+Zookeeper Mark calls out for Doug the Dog
+Doug the Dog makes noise.
+Zookeeper Mark calls out for Willy the Wolf
+Willy the Wolf makes noise.
+Zookeeper Mark calls out for Ryan the Rhino
+Ryan the Rhino makes noise.
+Zookeeper Mark calls out for Eli the Elephant
+Eli the Elephant makes noise.
+Zookeeper Mark calls out for Hank the Hippo
+Hank the Hippo makes noise.
+Zookeeper Mark calls out for Kevin the Kangaroo
+Kevin the Kangaroo makes noise.
+Zookeeper Mark calls out for Wanda the Wombat
+Wanda the Wombat makes noise.
+Zookeeper Mark feeds Carl the Cat
+Carl the Cat coughs up a hairball.
+Zookeeper Mark feeds Tina the Tiger
+Tina the Tiger eats.
+Zookeeper Mark feeds Lily the Lion
+Lily the Lion eats.
+Zookeeper Mark feeds Doug the Dog
+Doug the Dog eats.
+Zookeeper Mark feeds Willy the Wolf
+Willy the Wolf eats.
+Zookeeper Mark feeds Ryan the Rhino
+Ryan the Rhino eats.
+Zookeeper Mark feeds Eli the Elephant
+Eli the Elephant eats.
+Zookeeper Mark feeds Hank the Hippo
+Hank the Hippo eats.
+Zookeeper Mark feeds Kevin the Kangaroo
+Kevin the Kangaroo eats.
+Zookeeper Mark feeds Wanda the Wombat
+Wanda the Wombat eats.
+Zookeeper Mark exercises Carl the Cat
+Carl the Cat roams.
+Zookeeper Mark exercises Tina the Tiger
+Tina the Tiger roams.
+Zookeeper Mark exercises Lily the Lion
+Lily the Lion roams.
+Zookeeper Mark exercises Doug the Dog
+Doug the Dog roams.
+Zookeeper Mark exercises Willy the Wolf
+Willy the Wolf roams.
+Zookeeper Mark exercises Ryan the Rhino
+Ryan the Rhino roams.
+Zookeeper Mark exercises Eli the Elephant
+Eli the Elephant roams.
+Zookeeper Mark exercises Hank the Hippo
+Hank the Hippo roams.
+Zookeeper Mark exercises Kevin the Kangaroo
+Kevin the Kangaroo kicks a visitor and bounds away.
+Zookeeper Mark exercises Wanda the Wombat
+Wanda the Wombat roams.
+Zookeeper Mark sleeps Carl the Cat
+Carl the Cat roams.
+Zookeeper Mark sleeps Tina the Tiger
+Tina the Tiger makes noise.
+Zookeeper Mark sleeps Lily the Lion
+Lily the Lion roams.
+Zookeeper Mark sleeps Doug the Dog
+Doug the Dog sleeps.
+Zookeeper Mark sleeps Willy the Wolf
+Willy the Wolf sleeps.
+Zookeeper Mark sleeps Ryan the Rhino
+Ryan the Rhino sleeps.
+Zookeeper Mark sleeps Eli the Elephant
+Eli the Elephant sleeps.
+Zookeeper Mark sleeps Hank the Hippo
+Hank the Hippo sleeps.
+Zookeeper Mark sleeps Kevin the Kangaroo
+Kevin the Kangaroo sleeps.
+Zookeeper Mark sleeps Wanda the Wombat
+Wanda the Wombat sleeps.

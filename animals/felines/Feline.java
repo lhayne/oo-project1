@@ -1,9 +1,11 @@
-import Animal;
+package animals.felines;
+
+import animals.Animal;
 
 public class Feline extends Animal {
 
-	public Feline(String givenName){
-		super(givenName);
+	public Feline(String givenName,String givenType){
+		super(givenName, givenType);
 	}
 	public void sleep(){
 		double rand = Math.random();

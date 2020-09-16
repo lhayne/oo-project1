@@ -1,9 +1,11 @@
-import Animal;
+package animals.pachyderms;
+
+import animals.Animal;
 
 public class Pachyderm extends Animal {
 
-	public Pachyderm(String givenName){
-		super(givenName);
+	public Pachyderm(String givenName, String givenType){
+		super(givenName, givenType);
 	}
 	public void roam(){
 		if (Math.random() < 0.25){
